@@ -21,6 +21,7 @@ const SideDrawer = ({ show, click }) => {
         </li>
         <li>
           <Link to="/">Shop</Link>
+          {/* 1:25:36 */}
         </li>
       </ul>
     </div>
