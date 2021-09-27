@@ -1,5 +1,5 @@
 import './HomeScreen.css';
-import Product from './../components/Product';
+import Product from '../components/Product';
 
 const HomeScreen = () => {
   return (
